@@ -1,0 +1,17 @@
+[functions.ai-chat]
+verify_jwt = false
+
+[functions.ai-generate]
+verify_jwt = false
+
+[functions.extract-url]
+verify_jwt = false
+
+[functions.voiceover]
+verify_jwt = false
+
+[functions.admin-auth]
+verify_jwt = false
+
+[functions.admin-data]
+verify_jwt = false
